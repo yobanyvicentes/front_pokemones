@@ -1,0 +1,22 @@
+
+#grid-div {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.div-pokemon {
+    display: block;
+    width: 145px;
+    text-align: center;
+    margin: 5px;
+    background-color: silver;
+}
+
+.div-types {
+    display: flex;
+    justify-content: center;
+}
+
+.div-types > p {
+    padding: 0px 3px;
+}
