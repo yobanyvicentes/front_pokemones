@@ -1,3 +1,5 @@
 # CONSUMO DE LA API https://pokeapi.co/api/v2/pokemon?limit=100
 
 La app es simplemente un front que consume la api de pokemones y que tiene un buscador para filtrar las coincidencias de la búsqueda.
+
+se puede mirar el front desplegado en esta url: https://yobanyvicentes.github.io/front_pokemones/
