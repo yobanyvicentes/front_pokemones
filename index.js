@@ -39,8 +39,6 @@ const getPokemons = async () => {
   const data = await res.json();
   pokemons = data.results;
 
-  //console.log(pokemons);
-
   renderPokemons(pokemons);
 }
 
